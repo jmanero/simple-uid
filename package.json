@@ -1,0 +1,19 @@
+{
+	"name" : "simple-uid",
+	"version" : "0.0.1",
+	"description" : "A simple generator of probabilistically unique strings",
+	"author" : {
+		"name" : "John Manero",
+		"email" : "jmanero@dyn.com"
+	},
+	"dependencies" : {},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://opensource.org/licenses/MIT"
+		}
+	],
+	"engines": {
+		"node": ">=0.8"
+	}
+}
