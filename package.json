@@ -9,7 +9,7 @@
 	"repository" : {
 	    "type" : "git",
         "url" : "git://github.com/jmanero/simple-uid.git"
-    }
+    },
 	"license" : "MIT",
 	"engines": {
 		"node": ">=0.8"
