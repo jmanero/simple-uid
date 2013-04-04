@@ -6,13 +6,11 @@
 		"name" : "John Manero",
 		"email" : "jmanero@dyn.com"
 	},
-	"dependencies" : {},
-	"licenses": [
-		{
-			"type": "MIT",
-			"url": "http://opensource.org/licenses/MIT"
-		}
-	],
+	"repository" : {
+	    "type" : "git",
+        "url" : "git://github.com/jmanero/simple-uid.git"
+    }
+	"license" : "MIT",
 	"engines": {
 		"node": ">=0.8"
 	}
